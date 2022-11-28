@@ -1,6 +1,6 @@
 # 青春倒錯 ADV『YouthSignal』
 
-![DLSite - ダウンロード](https://img.shields.io/static/v1?label=DLSite&message=ダウンロード&color=%23052A83&style=for-the-badge)
+[![DLSite - ダウンロード](https://img.shields.io/static/v1?label=DLSite&message=ダウンロード&color=%23052A83&style=for-the-badge)](https://www.dlsite.com/home/circle/profile/=/maker_id/RG52910.html)
 
 このプロジェクトでは、青春倒錯 ADV『YouthSignal』の開発を行っています。
 
