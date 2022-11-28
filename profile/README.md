@@ -2,6 +2,8 @@
 
 [![DLSite - ダウンロード](https://img.shields.io/static/v1?label=DLSite&message=ダウンロード&color=%23052A83&style=for-the-badge)](https://www.dlsite.com/home/circle/profile/=/maker_id/RG52910.html)
 
+[![Ci-en - 支援プラン](https://img.shields.io/static/v1?label=Ci-en&message=支援する&color=%23238AC5&style=for-the-badge)](https://ci-en.net/creator/2349)
+
 このプロジェクトでは、青春倒錯 ADV『YouthSignal』の開発を行っています。
 
 ## ストーリー
@@ -24,6 +26,10 @@
 ## ホームページ
 
 https://youthsignal.stail-gamers.com/
+
+## Ci-en
+
+https://ci-en.net/creator/2349
 
 ## DLSite
 
